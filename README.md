@@ -38,4 +38,7 @@ For our initial machine learning model we actually get a likelihood of an indivi
 The internal and external validation accuracy of the for our chest X-ray model, was recorded 89.5 and 79.3% respectively 
 The X-Ray data sets contains 1000+ chest X-rays of positive and negative cases across the world.
 And for our 3rd deep learning model which is ultrasound segmentation, we are using it for verification. In order to reduce false positives and false negatives.
+![SA](https://user-images.githubusercontent.com/51361052/80447325-bec45a80-8936-11ea-9070-a9f6185f3fd4.JPG)
+
+![future Architecture](https://user-images.githubusercontent.com/51361052/80447322-bcfa9700-8936-11ea-8aea-fa738092a2f1.jpg)
 
