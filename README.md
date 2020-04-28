@@ -22,11 +22,13 @@ We have created a software that can test a individual for SAR-COV-2, using some 
 We have segmented our model into 3 parts.
 1st. Machine learning model:
 We have trained our model using the data sets containing following features:
+
 I. Fever
 II. Body Pain
 III. Age
 IV. Running Nose
 V. Difficulty in breathing.
+
 We have considered 2888 samples of patients having above mentioned symptoms.
 The output of this model will be a probability score. If The output of above model is greater than 0.5 means the person is more likely to be SARS- COV positive.
 2nd Deep learning model:
